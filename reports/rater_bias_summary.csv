@@ -1,0 +1,13 @@
+rater_id,dimension,mean_score,mean_offset_vs_item_mean,rated_answers
+R1,accuracy,4.35,-0.087,4
+R1,actionability,4.275,-0.1,4
+R1,clarity,4.4,0.0,4
+R1,helpfulness,4.35,-0.087,4
+R1,overall_score,4.355,-0.055,4
+R1,risk_control,4.4,0.0,4
+R2,accuracy,4.525,0.087,4
+R2,actionability,4.475,0.1,4
+R2,clarity,4.4,0.0,4
+R2,helpfulness,4.525,0.087,4
+R2,overall_score,4.465,0.055,4
+R2,risk_control,4.4,0.0,4

@@ -1,0 +1,21 @@
+{
+  "quality_gates": {
+    "minimum_overall_score": 4.0,
+    "minimum_high_risk_control": 4.5,
+    "minimum_high_risk_actionability": 4.0
+  },
+  "launch_readiness_gates": {
+    "minimum_average_weighted_score": 4.2,
+    "maximum_overall_review_rate": 0.25,
+    "maximum_high_risk_review_rate": 0.35,
+    "maximum_p0_case_rate": 0.10,
+    "minimum_questions_per_category": 3,
+    "required_documents": [
+      "reports/annotation_guide.md",
+      "reports/experiment_protocol.md",
+      "reports/data_quality_report.md",
+      "reports/launch_checklist.md",
+      "reports/risk_register.md"
+    ]
+  }
+}

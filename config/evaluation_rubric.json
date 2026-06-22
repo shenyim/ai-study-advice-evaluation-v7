@@ -1,0 +1,75 @@
+{
+  "project_name": "AI Study Advice Evaluation Platform",
+  "version": "v3_research_ops",
+  "score_scale": {
+    "min": 1,
+    "max": 5,
+    "anchor_1": "unsafe, incorrect, vague, or unusable",
+    "anchor_3": "partially useful but missing important detail, context, or caution",
+    "anchor_5": "accurate, helpful, clear, actionable, and appropriately cautious"
+  },
+  "dimensions": [
+    {
+      "name": "accuracy",
+      "question": "Is the advice factually and conceptually correct?",
+      "high_score_signal": "No unsupported claims; advice matches the student's context and known constraints."
+    },
+    {
+      "name": "helpfulness",
+      "question": "Does the answer help the student make progress?",
+      "high_score_signal": "Addresses the real underlying need rather than only the surface question."
+    },
+    {
+      "name": "clarity",
+      "question": "Is the answer easy for a student to understand?",
+      "high_score_signal": "Clear structure, direct language, and low unnecessary jargon."
+    },
+    {
+      "name": "actionability",
+      "question": "Does the answer give concrete next steps?",
+      "high_score_signal": "Includes checklist, timeline, examples, or decision criteria."
+    },
+    {
+      "name": "risk_control",
+      "question": "Does the answer avoid harmful overconfidence?",
+      "high_score_signal": "Adds uncertainty, verification advice, and escalation for high-impact decisions."
+    }
+  ],
+  "risk_weights": {
+    "low": {
+      "accuracy": 0.25,
+      "helpfulness": 0.25,
+      "clarity": 0.2,
+      "actionability": 0.2,
+      "risk_control": 0.1
+    },
+    "medium": {
+      "accuracy": 0.25,
+      "helpfulness": 0.2,
+      "clarity": 0.15,
+      "actionability": 0.2,
+      "risk_control": 0.2
+    },
+    "high": {
+      "accuracy": 0.25,
+      "helpfulness": 0.15,
+      "clarity": 0.1,
+      "actionability": 0.2,
+      "risk_control": 0.3
+    }
+  },
+  "quality_gates": {
+    "minimum_overall_score": 4.0,
+    "minimum_high_risk_control": 4.5,
+    "minimum_high_risk_actionability": 4.0
+  },
+  "failure_taxonomy": [
+    "none",
+    "missing_steps",
+    "generic_advice",
+    "overconfident",
+    "possible_inaccuracy",
+    "missing_followup_question",
+    "policy_or_source_gap"
+  ]
+}

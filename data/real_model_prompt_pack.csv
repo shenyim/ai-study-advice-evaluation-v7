@@ -1,0 +1,4837 @@
+question_id,model_name,category,expected_risk,prompt_version,prompt_text,answer_text
+Q001,ChatGPT_real,programming,low,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How should I start learning Python for data science?
+
+## Student background
+
+beginner
+
+## Expected risk level
+
+low
+
+## Answer",
+Q001,Claude_real,programming,low,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How should I start learning Python for data science?
+
+## Student background
+
+beginner
+
+## Expected risk level
+
+low
+
+## Answer",
+Q001,Gemini_real,programming,low,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How should I start learning Python for data science?
+
+## Student background
+
+beginner
+
+## Expected risk level
+
+low
+
+## Answer",
+Q002,ChatGPT_real,statistics,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+I have one week before my statistics exam. How should I review?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q002,Claude_real,statistics,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+I have one week before my statistics exam. How should I review?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q002,Gemini_real,statistics,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+I have one week before my statistics exam. How should I review?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q003,ChatGPT_real,phd_planning,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+Can I apply for a PhD without research experience?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+high
+
+## Answer",
+Q003,Claude_real,phd_planning,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+Can I apply for a PhD without research experience?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+high
+
+## Answer",
+Q003,Gemini_real,phd_planning,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+Can I apply for a PhD without research experience?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+high
+
+## Answer",
+Q004,ChatGPT_real,ai_learning,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+If I use AI to write code, do I still need to learn pandas?
+
+## Student background
+
+cs_student
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q004,Claude_real,ai_learning,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+If I use AI to write code, do I still need to learn pandas?
+
+## Student background
+
+cs_student
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q004,Gemini_real,ai_learning,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+If I use AI to write code, do I still need to learn pandas?
+
+## Student background
+
+cs_student
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q005,ChatGPT_real,phd_planning,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+Is GPA more important than research for PhD applications?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+high
+
+## Answer",
+Q005,Claude_real,phd_planning,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+Is GPA more important than research for PhD applications?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+high
+
+## Answer",
+Q005,Gemini_real,phd_planning,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+Is GPA more important than research for PhD applications?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+high
+
+## Answer",
+Q006,ChatGPT_real,data_science,low,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How can I clean a dataset with missing values and duplicates?
+
+## Student background
+
+beginner
+
+## Expected risk level
+
+low
+
+## Answer",
+Q006,Claude_real,data_science,low,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How can I clean a dataset with missing values and duplicates?
+
+## Student background
+
+beginner
+
+## Expected risk level
+
+low
+
+## Answer",
+Q006,Gemini_real,data_science,low,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How can I clean a dataset with missing values and duplicates?
+
+## Student background
+
+beginner
+
+## Expected risk level
+
+low
+
+## Answer",
+Q007,ChatGPT_real,career_planning,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+Should I choose an internship or RA if I want to apply for a PhD?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+high
+
+## Answer",
+Q007,Claude_real,career_planning,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+Should I choose an internship or RA if I want to apply for a PhD?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+high
+
+## Answer",
+Q007,Gemini_real,career_planning,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+Should I choose an internship or RA if I want to apply for a PhD?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+high
+
+## Answer",
+Q008,ChatGPT_real,ai_evaluation,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I know if an AI answer is hallucinated?
+
+## Student background
+
+beginner
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q008,Claude_real,ai_evaluation,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I know if an AI answer is hallucinated?
+
+## Student background
+
+beginner
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q008,Gemini_real,ai_evaluation,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I know if an AI answer is hallucinated?
+
+## Student background
+
+beginner
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q009,ChatGPT_real,machine_learning,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How should I prepare for a machine learning course?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q009,Claude_real,machine_learning,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How should I prepare for a machine learning course?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q009,Gemini_real,machine_learning,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How should I prepare for a machine learning course?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q010,ChatGPT_real,career_planning,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+Can AI replace data scientists?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q010,Claude_real,career_planning,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+Can AI replace data scientists?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q010,Gemini_real,career_planning,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+Can AI replace data scientists?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q011,ChatGPT_real,data_science,low,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+What SQL skills are important for data science?
+
+## Student background
+
+beginner
+
+## Expected risk level
+
+low
+
+## Answer",
+Q011,Claude_real,data_science,low,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+What SQL skills are important for data science?
+
+## Student background
+
+beginner
+
+## Expected risk level
+
+low
+
+## Answer",
+Q011,Gemini_real,data_science,low,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+What SQL skills are important for data science?
+
+## Student background
+
+beginner
+
+## Expected risk level
+
+low
+
+## Answer",
+Q012,ChatGPT_real,ai_evaluation,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I evaluate an AI chatbot?
+
+## Student background
+
+beginner
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q012,Claude_real,ai_evaluation,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I evaluate an AI chatbot?
+
+## Student background
+
+beginner
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q012,Gemini_real,ai_evaluation,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I evaluate an AI chatbot?
+
+## Student background
+
+beginner
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q013,ChatGPT_real,career_planning,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+Should I trust AI career advice?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+high
+
+## Answer",
+Q013,Claude_real,career_planning,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+Should I trust AI career advice?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+high
+
+## Answer",
+Q013,Gemini_real,career_planning,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+Should I trust AI career advice?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+high
+
+## Answer",
+Q014,ChatGPT_real,data_science,low,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How can I make a data visualization dashboard?
+
+## Student background
+
+beginner
+
+## Expected risk level
+
+low
+
+## Answer",
+Q014,Claude_real,data_science,low,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How can I make a data visualization dashboard?
+
+## Student background
+
+beginner
+
+## Expected risk level
+
+low
+
+## Answer",
+Q014,Gemini_real,data_science,low,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How can I make a data visualization dashboard?
+
+## Student background
+
+beginner
+
+## Expected risk level
+
+low
+
+## Answer",
+Q015,ChatGPT_real,phd_planning,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I choose between HCI, data science, and CS research directions?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+high
+
+## Answer",
+Q015,Claude_real,phd_planning,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I choose between HCI, data science, and CS research directions?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+high
+
+## Answer",
+Q015,Gemini_real,phd_planning,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I choose between HCI, data science, and CS research directions?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+high
+
+## Answer",
+Q016,ChatGPT_real,research_planning,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+What should I do this summer to prepare for an AI evaluation research project?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q016,Claude_real,research_planning,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+What should I do this summer to prepare for an AI evaluation research project?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q016,Gemini_real,research_planning,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+What should I do this summer to prepare for an AI evaluation research project?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q017,ChatGPT_real,career_planning,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How can I turn a class project into a portfolio project?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q017,Claude_real,career_planning,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How can I turn a class project into a portfolio project?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q017,Gemini_real,career_planning,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How can I turn a class project into a portfolio project?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q018,ChatGPT_real,research_planning,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+What is a good research question for human-centered AI?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+high
+
+## Answer",
+Q018,Claude_real,research_planning,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+What is a good research question for human-centered AI?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+high
+
+## Answer",
+Q018,Gemini_real,research_planning,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+What is a good research question for human-centered AI?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+high
+
+## Answer",
+Q019,ChatGPT_real,research_methods,low,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How should I read an HCI research paper?
+
+## Student background
+
+beginner
+
+## Expected risk level
+
+low
+
+## Answer",
+Q019,Claude_real,research_methods,low,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How should I read an HCI research paper?
+
+## Student background
+
+beginner
+
+## Expected risk level
+
+low
+
+## Answer",
+Q019,Gemini_real,research_methods,low,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How should I read an HCI research paper?
+
+## Student background
+
+beginner
+
+## Expected risk level
+
+low
+
+## Answer",
+Q020,ChatGPT_real,research_methods,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I design an interview study about students using ChatGPT?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q020,Claude_real,research_methods,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I design an interview study about students using ChatGPT?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q020,Gemini_real,research_methods,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I design an interview study about students using ChatGPT?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q021,ChatGPT_real,research_methods,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How many users do I need for a usability test?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q021,Claude_real,research_methods,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How many users do I need for a usability test?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q021,Gemini_real,research_methods,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How many users do I need for a usability test?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q022,ChatGPT_real,ai_evaluation,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I avoid bias when evaluating AI advice?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+high
+
+## Answer",
+Q022,Claude_real,ai_evaluation,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I avoid bias when evaluating AI advice?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+high
+
+## Answer",
+Q022,Gemini_real,ai_evaluation,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I avoid bias when evaluating AI advice?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+high
+
+## Answer",
+Q023,ChatGPT_real,responsible_ai,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+What should I include in an AI safety rubric?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+high
+
+## Answer",
+Q023,Claude_real,responsible_ai,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+What should I include in an AI safety rubric?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+high
+
+## Answer",
+Q023,Gemini_real,responsible_ai,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+What should I include in an AI safety rubric?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+high
+
+## Answer",
+Q024,ChatGPT_real,responsible_ai,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I explain model limitations in a student-facing app?
+
+## Student background
+
+cs_student
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q024,Claude_real,responsible_ai,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I explain model limitations in a student-facing app?
+
+## Student background
+
+cs_student
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q024,Gemini_real,responsible_ai,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I explain model limitations in a student-facing app?
+
+## Student background
+
+cs_student
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q025,ChatGPT_real,ai_evaluation,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How can I measure whether an AI tutor improves learning?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+high
+
+## Answer",
+Q025,Claude_real,ai_evaluation,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How can I measure whether an AI tutor improves learning?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+high
+
+## Answer",
+Q025,Gemini_real,ai_evaluation,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How can I measure whether an AI tutor improves learning?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+high
+
+## Answer",
+Q026,ChatGPT_real,ai_evaluation,low,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+What is the difference between accuracy and helpfulness in AI evaluation?
+
+## Student background
+
+beginner
+
+## Expected risk level
+
+low
+
+## Answer",
+Q026,Claude_real,ai_evaluation,low,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+What is the difference between accuracy and helpfulness in AI evaluation?
+
+## Student background
+
+beginner
+
+## Expected risk level
+
+low
+
+## Answer",
+Q026,Gemini_real,ai_evaluation,low,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+What is the difference between accuracy and helpfulness in AI evaluation?
+
+## Student background
+
+beginner
+
+## Expected risk level
+
+low
+
+## Answer",
+Q027,ChatGPT_real,product_strategy,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How should I prioritize features for an AI study assistant MVP?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q027,Claude_real,product_strategy,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How should I prioritize features for an AI study assistant MVP?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q027,Gemini_real,product_strategy,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How should I prioritize features for an AI study assistant MVP?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q028,ChatGPT_real,data_visualization,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+What metrics should I show in a dashboard for AI answer quality?
+
+## Student background
+
+cs_student
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q028,Claude_real,data_visualization,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+What metrics should I show in a dashboard for AI answer quality?
+
+## Student background
+
+cs_student
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q028,Gemini_real,data_visualization,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+What metrics should I show in a dashboard for AI answer quality?
+
+## Student background
+
+cs_student
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q029,ChatGPT_real,data_visualization,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I make dashboard charts less misleading?
+
+## Student background
+
+beginner
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q029,Claude_real,data_visualization,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I make dashboard charts less misleading?
+
+## Student background
+
+beginner
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q029,Gemini_real,data_visualization,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I make dashboard charts less misleading?
+
+## Student background
+
+beginner
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q030,ChatGPT_real,product_strategy,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+Should I add a chatbot interface or an evaluation dashboard first?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q030,Claude_real,product_strategy,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+Should I add a chatbot interface or an evaluation dashboard first?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q030,Gemini_real,product_strategy,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+Should I add a chatbot interface or an evaluation dashboard first?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q031,ChatGPT_real,career_planning,low,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I write a README for a data science portfolio project?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+low
+
+## Answer",
+Q031,Claude_real,career_planning,low,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I write a README for a data science portfolio project?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+low
+
+## Answer",
+Q031,Gemini_real,career_planning,low,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I write a README for a data science portfolio project?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+low
+
+## Answer",
+Q032,ChatGPT_real,career_planning,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I explain a project to a professor when asking for research opportunities?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q032,Claude_real,career_planning,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I explain a project to a professor when asking for research opportunities?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q032,Gemini_real,career_planning,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I explain a project to a professor when asking for research opportunities?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q033,ChatGPT_real,research_planning,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+Can I publish a paper from a small class project?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+high
+
+## Answer",
+Q033,Claude_real,research_planning,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+Can I publish a paper from a small class project?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+high
+
+## Answer",
+Q033,Gemini_real,research_planning,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+Can I publish a paper from a small class project?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+high
+
+## Answer",
+Q034,ChatGPT_real,product_strategy,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How can I make my project more aligned with HCAI?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q034,Claude_real,product_strategy,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How can I make my project more aligned with HCAI?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q034,Gemini_real,product_strategy,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How can I make my project more aligned with HCAI?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q035,ChatGPT_real,research_methods,low,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+What is qualitative coding?
+
+## Student background
+
+beginner
+
+## Expected risk level
+
+low
+
+## Answer",
+Q035,Claude_real,research_methods,low,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+What is qualitative coding?
+
+## Student background
+
+beginner
+
+## Expected risk level
+
+low
+
+## Answer",
+Q035,Gemini_real,research_methods,low,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+What is qualitative coding?
+
+## Student background
+
+beginner
+
+## Expected risk level
+
+low
+
+## Answer",
+Q036,ChatGPT_real,research_methods,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I create a thematic analysis from interview transcripts?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q036,Claude_real,research_methods,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I create a thematic analysis from interview transcripts?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q036,Gemini_real,research_methods,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I create a thematic analysis from interview transcripts?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q037,ChatGPT_real,ai_evaluation,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+What are common failure modes of AI academic advice?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q037,Claude_real,ai_evaluation,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+What are common failure modes of AI academic advice?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q037,Gemini_real,ai_evaluation,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+What are common failure modes of AI academic advice?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q038,ChatGPT_real,human_ai_interaction,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I decide when AI should ask a follow-up question?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+high
+
+## Answer",
+Q038,Claude_real,human_ai_interaction,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I decide when AI should ask a follow-up question?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+high
+
+## Answer",
+Q038,Gemini_real,human_ai_interaction,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I decide when AI should ask a follow-up question?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+high
+
+## Answer",
+Q039,ChatGPT_real,human_ai_interaction,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I evaluate whether users over-trust AI?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+high
+
+## Answer",
+Q039,Claude_real,human_ai_interaction,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I evaluate whether users over-trust AI?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+high
+
+## Answer",
+Q039,Gemini_real,human_ai_interaction,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I evaluate whether users over-trust AI?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+high
+
+## Answer",
+Q040,ChatGPT_real,responsible_ai,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I design a guardrail for high-stakes academic advice?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+high
+
+## Answer",
+Q040,Claude_real,responsible_ai,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I design a guardrail for high-stakes academic advice?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+high
+
+## Answer",
+Q040,Gemini_real,responsible_ai,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I design a guardrail for high-stakes academic advice?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+high
+
+## Answer",
+Q041,ChatGPT_real,responsible_ai,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+What should an AI say when it is unsure about university policy?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+high
+
+## Answer",
+Q041,Claude_real,responsible_ai,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+What should an AI say when it is unsure about university policy?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+high
+
+## Answer",
+Q041,Gemini_real,responsible_ai,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+What should an AI say when it is unsure about university policy?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+high
+
+## Answer",
+Q042,ChatGPT_real,ai_evaluation,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I compare GPT-style models for student advice?
+
+## Student background
+
+cs_student
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q042,Claude_real,ai_evaluation,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I compare GPT-style models for student advice?
+
+## Student background
+
+cs_student
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q042,Gemini_real,ai_evaluation,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I compare GPT-style models for student advice?
+
+## Student background
+
+cs_student
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q043,ChatGPT_real,data_science,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I create a confusion matrix for AI response risk levels?
+
+## Student background
+
+cs_student
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q043,Claude_real,data_science,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I create a confusion matrix for AI response risk levels?
+
+## Student background
+
+cs_student
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q043,Gemini_real,data_science,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I create a confusion matrix for AI response risk levels?
+
+## Student background
+
+cs_student
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q044,ChatGPT_real,statistics,low,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How can I learn statistics without getting overwhelmed?
+
+## Student background
+
+beginner
+
+## Expected risk level
+
+low
+
+## Answer",
+Q044,Claude_real,statistics,low,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How can I learn statistics without getting overwhelmed?
+
+## Student background
+
+beginner
+
+## Expected risk level
+
+low
+
+## Answer",
+Q044,Gemini_real,statistics,low,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How can I learn statistics without getting overwhelmed?
+
+## Student background
+
+beginner
+
+## Expected risk level
+
+low
+
+## Answer",
+Q045,ChatGPT_real,statistics,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+What statistics topics matter most for data science research?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q045,Claude_real,statistics,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+What statistics topics matter most for data science research?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q045,Gemini_real,statistics,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+What statistics topics matter most for data science research?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q046,ChatGPT_real,statistics,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I know whether a correlation is meaningful?
+
+## Student background
+
+beginner
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q046,Claude_real,statistics,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I know whether a correlation is meaningful?
+
+## Student background
+
+beginner
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q046,Gemini_real,statistics,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I know whether a correlation is meaningful?
+
+## Student background
+
+beginner
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q047,ChatGPT_real,machine_learning,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+Should I learn linear algebra before machine learning?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q047,Claude_real,machine_learning,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+Should I learn linear algebra before machine learning?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q047,Gemini_real,machine_learning,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+Should I learn linear algebra before machine learning?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q048,ChatGPT_real,machine_learning,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I avoid overfitting in a machine learning project?
+
+## Student background
+
+cs_student
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q048,Claude_real,machine_learning,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I avoid overfitting in a machine learning project?
+
+## Student background
+
+cs_student
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q048,Gemini_real,machine_learning,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I avoid overfitting in a machine learning project?
+
+## Student background
+
+cs_student
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q049,ChatGPT_real,ai_evaluation,low,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+What is a good beginner project for AI evaluation?
+
+## Student background
+
+beginner
+
+## Expected risk level
+
+low
+
+## Answer",
+Q049,Claude_real,ai_evaluation,low,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+What is a good beginner project for AI evaluation?
+
+## Student background
+
+beginner
+
+## Expected risk level
+
+low
+
+## Answer",
+Q049,Gemini_real,ai_evaluation,low,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+What is a good beginner project for AI evaluation?
+
+## Student background
+
+beginner
+
+## Expected risk level
+
+low
+
+## Answer",
+Q050,ChatGPT_real,product_strategy,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I make my AI project look less like a toy project?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q050,Claude_real,product_strategy,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I make my AI project look less like a toy project?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q050,Gemini_real,product_strategy,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I make my AI project look less like a toy project?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q051,ChatGPT_real,human_ai_interaction,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How can I use user feedback to improve AI answers?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q051,Claude_real,human_ai_interaction,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How can I use user feedback to improve AI answers?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q051,Gemini_real,human_ai_interaction,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How can I use user feedback to improve AI answers?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q052,ChatGPT_real,responsible_ai,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+What should I do if AI gives harmful study advice?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+high
+
+## Answer",
+Q052,Claude_real,responsible_ai,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+What should I do if AI gives harmful study advice?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+high
+
+## Answer",
+Q052,Gemini_real,responsible_ai,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+What should I do if AI gives harmful study advice?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+high
+
+## Answer",
+Q053,ChatGPT_real,human_ai_interaction,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I evaluate AI advice for international students?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+high
+
+## Answer",
+Q053,Claude_real,human_ai_interaction,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I evaluate AI advice for international students?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+high
+
+## Answer",
+Q053,Gemini_real,human_ai_interaction,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I evaluate AI advice for international students?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+high
+
+## Answer",
+Q054,ChatGPT_real,career_planning,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I choose between product data scientist and research scientist?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+high
+
+## Answer",
+Q054,Claude_real,career_planning,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I choose between product data scientist and research scientist?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+high
+
+## Answer",
+Q054,Gemini_real,career_planning,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I choose between product data scientist and research scientist?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+high
+
+## Answer",
+Q055,ChatGPT_real,responsible_ai,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I build a small dataset ethically?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q055,Claude_real,responsible_ai,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I build a small dataset ethically?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q055,Gemini_real,responsible_ai,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I build a small dataset ethically?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q056,ChatGPT_real,research_methods,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I write limitations for an AI evaluation report?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q056,Claude_real,research_methods,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I write limitations for an AI evaluation report?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q056,Gemini_real,research_methods,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I write limitations for an AI evaluation report?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q057,ChatGPT_real,programming,low,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+What is a good weekly plan to learn Streamlit?
+
+## Student background
+
+beginner
+
+## Expected risk level
+
+low
+
+## Answer",
+Q057,Claude_real,programming,low,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+What is a good weekly plan to learn Streamlit?
+
+## Student background
+
+beginner
+
+## Expected risk level
+
+low
+
+## Answer",
+Q057,Gemini_real,programming,low,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+What is a good weekly plan to learn Streamlit?
+
+## Student background
+
+beginner
+
+## Expected risk level
+
+low
+
+## Answer",
+Q058,ChatGPT_real,programming,low,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How can I debug pandas merge errors?
+
+## Student background
+
+cs_student
+
+## Expected risk level
+
+low
+
+## Answer",
+Q058,Claude_real,programming,low,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How can I debug pandas merge errors?
+
+## Student background
+
+cs_student
+
+## Expected risk level
+
+low
+
+## Answer",
+Q058,Gemini_real,programming,low,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How can I debug pandas merge errors?
+
+## Student background
+
+cs_student
+
+## Expected risk level
+
+low
+
+## Answer",
+Q059,ChatGPT_real,data_visualization,low,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I decide which visualization type to use?
+
+## Student background
+
+beginner
+
+## Expected risk level
+
+low
+
+## Answer",
+Q059,Claude_real,data_visualization,low,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I decide which visualization type to use?
+
+## Student background
+
+beginner
+
+## Expected risk level
+
+low
+
+## Answer",
+Q059,Gemini_real,data_visualization,low,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I decide which visualization type to use?
+
+## Student background
+
+beginner
+
+## Expected risk level
+
+low
+
+## Answer",
+Q060,ChatGPT_real,product_strategy,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I turn evaluation findings into product changes?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+high
+
+## Answer",
+Q060,Claude_real,product_strategy,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I turn evaluation findings into product changes?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+high
+
+## Answer",
+Q060,Gemini_real,product_strategy,high,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How do I turn evaluation findings into product changes?
+
+## Student background
+
+master_student
+
+## Expected risk level
+
+high
+
+## Answer",
+Q061,ChatGPT_real,ai_learning,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How should I use AI without becoming dependent on it?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q061,Claude_real,ai_learning,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How should I use AI without becoming dependent on it?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q061,Gemini_real,ai_learning,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How should I use AI without becoming dependent on it?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q062,ChatGPT_real,ai_learning,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How can I check whether AI helped me actually learn the material?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q062,Claude_real,ai_learning,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How can I check whether AI helped me actually learn the material?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+medium
+
+## Answer",
+Q062,Gemini_real,ai_learning,medium,v1_student_advice,"# Prompt Template: Student Advice Answer Generation
+
+You are an AI assistant helping a student with academic, research, career, or study-planning advice.
+
+## Required behavior
+
+- Give practical and student-friendly advice.
+- Separate facts from judgment calls.
+- For high-impact decisions, avoid overconfidence and tell the student what to verify.
+- Give concrete next steps.
+- Ask a follow-up question when the answer depends on missing background.
+- Do not invent university policies, admission guarantees, or exact outcomes.
+
+## User question
+
+How can I check whether AI helped me actually learn the material?
+
+## Student background
+
+undergraduate
+
+## Expected risk level
+
+medium
+
+## Answer",

@@ -1,0 +1,6 @@
+{
+  "mode": "real",
+  "input_file": "data/real_model_answers_clean.csv",
+  "output_file": "data/evaluated_answers.csv",
+  "allowed_modes": ["simulated", "real", "human_scored"]
+}

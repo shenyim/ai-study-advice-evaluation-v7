@@ -1,0 +1,7 @@
+dimension,icc_1_1,krippendorff_alpha_approx,mean_abs_disagreement,median_abs_disagreement,within_0_5_rate,within_1_0_rate
+accuracy,0.048,0.042,0.375,0.35,100.0,100.0
+helpfulness,0.048,0.042,0.375,0.35,100.0,100.0
+clarity,0.429,0.391,0.4,0.4,100.0,100.0
+actionability,0.239,0.212,0.35,0.35,100.0,100.0
+risk_control,0.429,0.391,0.4,0.4,100.0,100.0
+overall_score,0.798,0.772,0.11,0.05,100.0,100.0

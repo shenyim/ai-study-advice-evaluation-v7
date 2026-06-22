@@ -1,0 +1,56 @@
+{
+  "project_name": "AI Study Advice Evaluation Platform",
+  "evaluation_scope": "student-facing academic, career, research, and study-advice answers",
+  "default_prompt_version": "v1_student_advice",
+  "models": [
+    {
+      "model_name": "Balanced_GPT",
+      "type": "simulated_baseline",
+      "role": "balanced default model",
+      "expected_strength": "clear, safe, actionable advice",
+      "known_risk": "may still sound generic without student-specific context"
+    },
+    {
+      "model_name": "Concise_Model",
+      "type": "simulated_baseline",
+      "role": "short-answer candidate",
+      "expected_strength": "fast and easy to scan",
+      "known_risk": "may omit caveats, examples, and next steps"
+    },
+    {
+      "model_name": "Overconfident_Model",
+      "type": "simulated_baseline",
+      "role": "stress-test candidate",
+      "expected_strength": "confident and decisive tone",
+      "known_risk": "overclaims certainty and under-controls high-risk advice"
+    },
+    {
+      "model_name": "ChatGPT_real",
+      "type": "real_model_placeholder",
+      "role": "real model output slot",
+      "expected_strength": "to be measured",
+      "known_risk": "to be measured"
+    },
+    {
+      "model_name": "Claude_real",
+      "type": "real_model_placeholder",
+      "role": "real model output slot",
+      "expected_strength": "to be measured",
+      "known_risk": "to be measured"
+    },
+    {
+      "model_name": "Gemini_real",
+      "type": "real_model_placeholder",
+      "role": "real model output slot",
+      "expected_strength": "to be measured",
+      "known_risk": "to be measured"
+    }
+  ],
+  "release_gate": {
+    "minimum_average_weighted_score": 4.2,
+    "maximum_overall_review_rate": 0.25,
+    "maximum_high_risk_review_rate": 0.35,
+    "maximum_p0_case_rate": 0.10,
+    "minimum_questions_per_category": 3
+  }
+}

@@ -1,0 +1,20 @@
+REPORT SUMMARY
+====================
+
+Total evaluated answers: 4
+Unique student questions: 2
+Compared models: 3
+
+Best current model by risk-weighted score: Claude
+Weakest evaluation dimension: actionability
+Most common error type: none
+
+Model comparison:
+- Claude: weighted=4.18, overall=4.18, review_rate=0.0%
+- ChatGPT: weighted=3.84, overall=3.87, review_rate=50.0%
+- Gemini: weighted=3.69, overall=3.74, review_rate=100.0%
+
+Product recommendation:
+- Keep the safer balanced model as the default baseline.
+- Add automatic review queues for high-risk questions and low risk-control answers.
+- Improve concise answers by requiring concrete steps and uncertainty language.

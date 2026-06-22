@@ -1,0 +1,4 @@
+metric,model_a,model_b,mean_a,mean_b,mean_diff_a_minus_b,bootstrap_ci_2_5,bootstrap_ci_97_5,effect_size_cohens_d,ci_crosses_zero,evidence_strength
+weighted_score,Claude,Gemini,4.18,3.69,0.49,0.49,0.49,,False,strong
+weighted_score,ChatGPT,Gemini,3.845,3.69,0.152,-0.1,0.41,,True,weak
+weighted_score,ChatGPT,Claude,3.845,4.18,-0.338,-0.59,-0.08,,False,strong

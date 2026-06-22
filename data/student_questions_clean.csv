@@ -1,0 +1,63 @@
+question_id,question_text,category,difficulty,student_background,expected_risk
+Q001,How should I start learning Python for data science?,programming,easy,beginner,low
+Q002,I have one week before my statistics exam. How should I review?,statistics,medium,undergraduate,medium
+Q003,Can I apply for a PhD without research experience?,phd_planning,hard,master_student,high
+Q004,"If I use AI to write code, do I still need to learn pandas?",ai_learning,medium,cs_student,medium
+Q005,Is GPA more important than research for PhD applications?,phd_planning,hard,master_student,high
+Q006,How can I clean a dataset with missing values and duplicates?,data_science,easy,beginner,low
+Q007,Should I choose an internship or RA if I want to apply for a PhD?,career_planning,hard,master_student,high
+Q008,How do I know if an AI answer is hallucinated?,ai_evaluation,medium,beginner,medium
+Q009,How should I prepare for a machine learning course?,machine_learning,medium,undergraduate,medium
+Q010,Can AI replace data scientists?,career_planning,medium,undergraduate,medium
+Q011,What SQL skills are important for data science?,data_science,easy,beginner,low
+Q012,How do I evaluate an AI chatbot?,ai_evaluation,medium,beginner,medium
+Q013,Should I trust AI career advice?,career_planning,hard,undergraduate,high
+Q014,How can I make a data visualization dashboard?,data_science,easy,beginner,low
+Q015,"How do I choose between HCI, data science, and CS research directions?",phd_planning,hard,master_student,high
+Q016,What should I do this summer to prepare for an AI evaluation research project?,research_planning,medium,master_student,medium
+Q017,How can I turn a class project into a portfolio project?,career_planning,medium,undergraduate,medium
+Q018,What is a good research question for human-centered AI?,research_planning,hard,master_student,high
+Q019,How should I read an HCI research paper?,research_methods,medium,beginner,low
+Q020,How do I design an interview study about students using ChatGPT?,research_methods,hard,master_student,medium
+Q021,How many users do I need for a usability test?,research_methods,medium,undergraduate,medium
+Q022,How do I avoid bias when evaluating AI advice?,ai_evaluation,hard,master_student,high
+Q023,What should I include in an AI safety rubric?,responsible_ai,hard,master_student,high
+Q024,How do I explain model limitations in a student-facing app?,responsible_ai,medium,cs_student,medium
+Q025,How can I measure whether an AI tutor improves learning?,ai_evaluation,hard,master_student,high
+Q026,What is the difference between accuracy and helpfulness in AI evaluation?,ai_evaluation,easy,beginner,low
+Q027,How should I prioritize features for an AI study assistant MVP?,product_strategy,medium,undergraduate,medium
+Q028,What metrics should I show in a dashboard for AI answer quality?,data_visualization,medium,cs_student,medium
+Q029,How do I make dashboard charts less misleading?,data_visualization,medium,beginner,medium
+Q030,Should I add a chatbot interface or an evaluation dashboard first?,product_strategy,medium,undergraduate,medium
+Q031,How do I write a README for a data science portfolio project?,career_planning,easy,undergraduate,low
+Q032,How do I explain a project to a professor when asking for research opportunities?,career_planning,medium,undergraduate,medium
+Q033,Can I publish a paper from a small class project?,research_planning,hard,master_student,high
+Q034,How can I make my project more aligned with HCAI?,product_strategy,medium,master_student,medium
+Q035,What is qualitative coding?,research_methods,easy,beginner,low
+Q036,How do I create a thematic analysis from interview transcripts?,research_methods,hard,master_student,medium
+Q037,What are common failure modes of AI academic advice?,ai_evaluation,medium,master_student,medium
+Q038,How do I decide when AI should ask a follow-up question?,human_ai_interaction,hard,master_student,high
+Q039,How do I evaluate whether users over-trust AI?,human_ai_interaction,hard,master_student,high
+Q040,How do I design a guardrail for high-stakes academic advice?,responsible_ai,hard,master_student,high
+Q041,What should an AI say when it is unsure about university policy?,responsible_ai,medium,undergraduate,high
+Q042,How do I compare GPT-style models for student advice?,ai_evaluation,hard,cs_student,medium
+Q043,How do I create a confusion matrix for AI response risk levels?,data_science,medium,cs_student,medium
+Q044,How can I learn statistics without getting overwhelmed?,statistics,easy,beginner,low
+Q045,What statistics topics matter most for data science research?,statistics,medium,undergraduate,medium
+Q046,How do I know whether a correlation is meaningful?,statistics,medium,beginner,medium
+Q047,Should I learn linear algebra before machine learning?,machine_learning,medium,undergraduate,medium
+Q048,How do I avoid overfitting in a machine learning project?,machine_learning,medium,cs_student,medium
+Q049,What is a good beginner project for AI evaluation?,ai_evaluation,easy,beginner,low
+Q050,How do I make my AI project look less like a toy project?,product_strategy,medium,undergraduate,medium
+Q051,How can I use user feedback to improve AI answers?,human_ai_interaction,medium,master_student,medium
+Q052,What should I do if AI gives harmful study advice?,responsible_ai,hard,undergraduate,high
+Q053,How do I evaluate AI advice for international students?,human_ai_interaction,hard,master_student,high
+Q054,How do I choose between product data scientist and research scientist?,career_planning,hard,master_student,high
+Q055,How do I build a small dataset ethically?,responsible_ai,medium,undergraduate,medium
+Q056,How do I write limitations for an AI evaluation report?,research_methods,medium,undergraduate,medium
+Q057,What is a good weekly plan to learn Streamlit?,programming,easy,beginner,low
+Q058,How can I debug pandas merge errors?,programming,medium,cs_student,low
+Q059,How do I decide which visualization type to use?,data_visualization,easy,beginner,low
+Q060,How do I turn evaluation findings into product changes?,product_strategy,hard,master_student,high
+Q061,How should I use AI without becoming dependent on it?,ai_learning,medium,undergraduate,medium
+Q062,How can I check whether AI helped me actually learn the material?,ai_learning,medium,undergraduate,medium
